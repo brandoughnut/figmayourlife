@@ -54,6 +54,11 @@ h1 {
     font-weight: bold;
 }
 
+.accomplishmentsText {
+    color: rgb(40, 91, 40);
+    font-size: 300%;
+}
+
 .accomplishmentsRow1 {
     background-color: rgb(251, 129, 15);
 }
