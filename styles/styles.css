@@ -1,0 +1,55 @@
+.bold {
+    font-weight: bolder;
+    color: black;
+}
+
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.start {
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.end {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.text {
+    position: absolute;
+}
+
+.row1 {
+    background-color: rgb(251, 129, 15);
+    color: rgb(40, 91, 40);
+    font-weight: bold;
+    text-align: center;
+}
+
+.row2 {
+    background-color: rgb(40, 91, 40);
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.row3 {
+    background-color: darkred;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.size {
+    font-size: 150%;
+}
+
+h1 {
+    font-weight: bold;
+}
