@@ -7,6 +7,13 @@
 .center {
     display: flex;
     align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.end {
+    display:flex;
+    align-items: center;
     justify-content: center;
 }
 
@@ -61,4 +68,11 @@ h1 {
 
 .accomplishmentsRow1 {
     background-color: rgb(251, 129, 15);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imageStretch  {
+    display: flex;
+    align-items: stretch;
 }
