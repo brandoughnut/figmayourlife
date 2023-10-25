@@ -12,11 +12,6 @@
 }
 
 
-.start {
-    display: flex;
-    justify-content: flex-start;
-    
-}
 
 .end {
     display: flex;
@@ -55,7 +50,6 @@ h1 {
 }
 
 h5 {
-    font-weight: bold;
     font-size: 300%;
 }
 
@@ -64,7 +58,7 @@ h5 {
 }
 
 p {
-    font-size: 150%;
+    font-size: 140%;
 }
 
 .accomplishmentsText {
@@ -78,7 +72,23 @@ p {
     justify-content: space-evenly;
 }
 
+.accomplishmentsRow2 {
+    background-color: rgb(255, 154, 30);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
 .imageStretch  {
     display: flex;
     align-items: stretch;
+}
+
+.image3 {
+    width: 100%;
+}
+
+.imageAdjust {
+    height: 550px;
+    width: 80%;
 }
